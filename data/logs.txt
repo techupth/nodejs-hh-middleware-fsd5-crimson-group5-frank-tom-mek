@@ -1,1 +1,1 @@
-IP: ::1, Method: GET, Endpoint: /assignments/2
+IP: ::1, Method: GET, Endpoint: /assignments
